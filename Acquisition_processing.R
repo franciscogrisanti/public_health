@@ -2,10 +2,10 @@ library(rtweet)
 
 token <- create_token(
   app = "public_health_grisanti",
-  consumer_key = "3zU0Us0GEbclFDkagmj32EU5s",
-  consumer_secret = "BXckqcEb6U4wXjJMLJ1B8d2R69JVubjNn4SFEaf0tIx2QAyliW",
-  acess_token = "803232037075296256-WdvQwXHeW9K0T4DbKyVRT9BmO2Jerdd",
-  access_secret = "elG9iM2GWERXuRAUBgPLzAXIrtuhiHHsbRyvi6nRKm1F2")
+  consumer_key = "XXXXXXX",
+  consumer_secret = "XXXXXXX",
+  acess_token = "XXXXXXXX",
+  access_secret = "XXXXXX")
 
 
 # post a tweet from R
